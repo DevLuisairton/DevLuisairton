@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">🌱 Atualmente estou aprendendo **AWS, Typescript, React**<br><br>📫 Como entrar em contato comigo</p>
+<p align="center">🌱 Atualmente estou aprendendo <strong>AWS, Typescript, React</strong><br><br>📫 Como entrar em contato comigo</p>
 
 ###
 
