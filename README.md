@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Um apaixonado desenvolvedor de software 👨🏻‍💻</h3>
+<h3 align="center">Desenvolvedor de software 👨🏻‍💻</h3>
 
 ###
 
