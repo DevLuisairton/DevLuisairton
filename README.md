@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">🌱 Atualmente estou aprendendo **AWS e Java**<br><br>📫 Como entrar em contato comigo</p>
+<p align="center">🌱 Atualmente estou aprendendo **AWS**<br><br>📫 Como entrar em contato comigo</p>
 
 ###
 
@@ -42,8 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
