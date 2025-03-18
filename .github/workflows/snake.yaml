@@ -1,14 +1,14 @@
 name: Generate GitHub Contributions Snake Animation
 
 on:
-  # Schedule the workflow to run daily at midnight UTC
+  # Agenda o workflow para rodar diariamente à meia-noite UTC
   schedule:
     - cron: "0 0 * * *"
 
-  # Allow manual triggering of the workflow
+  # Permite a execução manual do workflow
   workflow_dispatch:
 
-  # Trigger the workflow on pushes to the main branch
+  # Dispara o workflow em pushes para o branch main
   push:
     branches:
       - main
@@ -19,18 +19,18 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Step 1: Checkout the repository
+      # Passo 1: Faz o checkout do repositório
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the snake animations
+      # Passo 2: Gera as animações da cobrinha
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          # GitHub username to generate the animation for
+          # Nome de usuário do GitHub para gerar a animação
           github_user_name: DevLuisairton
 
-          # Define the output files and their configurations
+          # Define os arquivos de saída e suas configurações
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -38,12 +38,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Deploy the generated files to the 'output' branch
-      - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          # Optionally, you can set a custom commit message
-          commit_message: "Update snake animation [skip ci]"
+      # Passo 3: Faz o commit e push das alterações para o branch main
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git commit -m "Update snake animation [skip ci]"
+          git push
