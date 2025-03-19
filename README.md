@@ -32,7 +32,7 @@
 ### 🛠️ Linguagens, Frameworks e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nodejs,python,postgres,git,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,postgres,git,aws,azure" />
 </div>
 
 ---
@@ -58,29 +58,11 @@
 ### 🌱 Atualmente Aprendendo
 - **AWS Cloud Architecture** ☁️
 - **Serverless Applications** ⚡
-- **DevOps Practices** 🛠️
 
 ---
 
 ### 📌 Projetos Destacados
-- [Projeto 1](https://github.com/DevLuisairton/projeto1) - Descrição breve do projeto.
-- [Projeto 2](https://github.com/DevLuisairton/projeto2) - Descrição breve do projeto.
-- [Projeto 3](https://github.com/DevLuisairton/projeto3) - Descrição breve do projeto.
+- [Portfólio](https://luisairton.vercel.app/) - Meu portfólio.
+- [Autonimbus](https://autonimbus.vercel.app/) - Projeto de TCC para o programa AWS Re/start.
+- [Sertifysimulator](https://sertifysimulator.vercel.app/) - Meu site de simulados que ainda esta em desenvolvimento.
 
----
-
-### 📚 Blog e Artigos
-- [Meu Blog](https://seusite.com) - Artigos sobre desenvolvimento, cloud e boas práticas.
-
----
-
-### 🎯 Metas para 2023
-- [ ] Dominar AWS Certified Solutions Architect.
-- [ ] Contribuir para projetos open source.
-- [ ] Publicar 10 artigos técnicos.
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevLuisairton&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
