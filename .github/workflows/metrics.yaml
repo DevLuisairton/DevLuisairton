@@ -37,12 +37,12 @@ jobs:
         uses: lowlighter/metrics@v3.34  # Versão atualizada
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: OfficialCodeVoyage  # Substitua pelo seu nome de usuário do GitHub
+          user: DevLuisairton  # Substitua pelo seu nome de usuário do GitHub
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: true
           config_octicon: true
-          config_timezone: America/Chicago  # Ajuste o fuso horário conforme necessário
+          config_timezone: America/Brasilia  # Ajuste o fuso horário conforme necessário
           config_twemoji: true
           plugin_languages: true
           plugin_languages_analysis_timeout: 15
@@ -61,7 +61,7 @@ jobs:
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
-          plugin_leetcode_user: officialcodevoyage  # Substitua pelo seu nome de usuário do LeetCode
+          plugin_leetcode_user: DevLuisairton  # Substitua pelo seu nome de usuário do LeetCode
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 

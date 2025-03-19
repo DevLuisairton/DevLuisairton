@@ -4,32 +4,31 @@
 
 ###
 
-<h3 align="center">👨‍💻 Um apaixonado desenvolvedor de software</h3>
+<h3 align="center">Um apaixonado desenvolvedor de software 👨🏻‍💻</h3>
 
 ###
 
-<p align="center">
-  🌱 Atualmente estou aprendendo **AWS**<br>
-  📫 Como entrar em contato comigo:
-</p>
+<p align="center">🌱 Atualmente estou aprendendo **AWS**<br><br>📫 Como entrar em contato comigo</p>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luisairton/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0040F5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:luisairtonsilva@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=F11010&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/5585981112800" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=0D310&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
 
----
+###
 
-### ⚒️ Linguagens, Frameworks e Ferramentas
+<p align="center">⚒️ Languages-Frameworks-Tools ⚒️</p>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -51,9 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazonwebservices logo"  />
 </div>
 
----
-
-### 📊 Estatísticas do GitHub
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevLuisairton&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -61,10 +58,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevLuisairton&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nightowl&hide_border=false&order=2" height="170" alt="languages graph"  />
 </div>
 
----
+###
 
-### 🐍 Minhas contribuições
+<p align="center">🐍 Minhas contribuições 🐍</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DevLuisairton/DevLuisairton/output/snake.svg" alt="Snake animation" />
-</div>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DevLuisairton/DevLuisairton/output/snake.svg" alt="Snake animation" />
+
+###
