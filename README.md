@@ -16,10 +16,6 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="whatsapp logo" />
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=DevLuisairton&label=Visitantes+do+perfil&color=2496ED&style=flat" alt="profile views" />
-
 </div>
 
 <br>
@@ -28,11 +24,37 @@
 
 ## ⚙️ Stack DevOps
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions,prometheus,grafana,linux,bash,git,gitlab&theme=dark&perline=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions,prometheus,grafana,linux,bash,git,gitlab&theme=light&perline=8">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions,prometheus,grafana,linux,bash,git,gitlab&theme=dark&perline=8" alt="devops stack icons" />
-</picture>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="aws logo" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32" alt="azure logo" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32" alt="google cloud logo" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker logo" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="32" alt="kubernetes logo" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="32" alt="terraform logo" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="32" alt="ansible logo" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32" alt="jenkins logo" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="32" alt="github actions logo" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="32" alt="prometheus logo" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="32" alt="grafana logo" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="bash logo" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="32" alt="gitlab logo" />
+
+<br><br>
 
 <sub>☁️ Cloud &nbsp;•&nbsp; 🐳 Containers &amp; Orquestração &nbsp;•&nbsp; 🏗️ IaC &amp; Automação &nbsp;•&nbsp; 🔁 CI/CD &nbsp;•&nbsp; 📊 Observabilidade &nbsp;•&nbsp; 🐧 SO &amp; Scripting &nbsp;•&nbsp; 🔧 Versionamento</sub>
 
