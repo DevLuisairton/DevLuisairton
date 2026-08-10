@@ -64,16 +64,6 @@
 
 <div align="center">
 
-## 📈 Métricas do GitHub
-
-<img src="https://raw.githubusercontent.com/DevLuisairton/DevLuisairton/output/metrics.svg" width="100%" alt="GitHub metrics" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 ## 👻 Minhas contribuições
 
 <picture>
